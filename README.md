@@ -19,7 +19,6 @@ This repository contains my self-introduction video created as part of my academ
 - Java
 - C++
 - GitHub
-- Linux
 - VS Code
 - Figma
 
