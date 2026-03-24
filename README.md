@@ -28,7 +28,3 @@ My short-term goal is to perform well in GATE and secure admission to a good uni
 
 ## Video File
 The self-introduction video is available in this repository.
-
-## Video Details
-Duration: ~4 minutes  
-Recorded using OBS Studio
