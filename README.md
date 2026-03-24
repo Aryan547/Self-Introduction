@@ -2,7 +2,7 @@
 
 ## Student Details
 Name: Aryan Agrawal  
-Reg No: 24BAI10221
+Reg No: 24BAI10221 
 Program: B.Tech CSE (AI & ML)  
 University: VIT Bhopal  
 Year: 2nd Year  
